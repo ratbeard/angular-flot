@@ -1,6 +1,10 @@
 {
     "name": "angular-flot",
     "main": "angular-flot.js",
+    "dependencies": {
+        "angular": "*",
+        "flot": "*"
+    },
     "version": "0.0.6",
     "authors": [
         "Lorenzo Villani <lvillani@develer.com>"
